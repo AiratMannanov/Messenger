@@ -9,11 +9,16 @@ First version was written with socket io, the second one with firebase database
 
 # Technologies:
 
-React/ redux(redux-saga) </br>
-  Node js (express) </br>
-  MongoDB </br>
-  Firebase </br>
-  Socket io </br>
+ #Frontend : 
+ HTML
+ CSS
+ React/ Redux(Redux-Saga) </br>
+ 
+ #Backend: 
+ Node js (express) </br>
+ MongoDB </br>
+ Firebase (Firebase Realtime Database, Firebase Storage) </br>
+ Socket.io </br>
 
 Converting speech in text was used SpeecRcognition api witch currently is in Chrome and FireFox browsers.
 
