@@ -9,11 +9,11 @@ First version was written with socket io, the second one with firebase database
 
 # Technologies:
 
- #Frontend : 
+ #Frontend : </br>
  HTML
  CSS
  React/ Redux(Redux-Saga) </br>
- 
+ </hr>
  #Backend: 
  Node js (express) </br>
  MongoDB </br>
