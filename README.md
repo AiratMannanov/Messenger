@@ -15,7 +15,7 @@ First version was written with socket io, the second one with firebase database
  React/ Redux(Redux-Saga) </br>
  React-Device-Detect </br>
 
- #Backend: 
+ #Backend: </br>
  Node js (express) </br>
  MongoDB </br>
  Firebase (Firebase Realtime Database, Firebase Storage) </br>
@@ -33,12 +33,15 @@ Converting speech in text was used SpeecRcognition api witch currently is in Chr
 
 # MVP Functionality
   Login / Register </br>
-  Chating </br>
+  Adding contacts </br>
+  Chating: </br>
+  Checking read and unread messages </br>
+  Sort all the chats </br>
   Converting speech messages to text </br>
 
 # Authors
-  <a href="https://github.com/Oberin98"> Beluaev Artem </a> </br>
   <a href="https://github.com/AiratMannanov"> Airat Mananov </a> </br>
+  <a href="https://github.com/Oberin98"> Beluaev Artem </a> </br>
   <a href="https://github.com/Leshkaj"> Safiullin Alexey </a> </br>
   <a href="https://github.com/Naughty1905"> Istomin Ivan </a> </br>
 
