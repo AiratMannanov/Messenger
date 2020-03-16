@@ -5,7 +5,6 @@ Main idea of the project was to add converting voice messages to text, and it wa
 
 First version was written with socket io, the second one with firebase database
 
-![Example](https://github.com/Oberin98/Messenger/blob/master/ReadMeAssets/gifExample.gif)
 ![Example](https://github.com/AiratMannanov/Messenger/blob/master/ReadMeAssets/ReadmeVoiceText.gif)
 
 # Technologies:
