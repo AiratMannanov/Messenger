@@ -10,10 +10,11 @@ First version was written with socket io, the second one with firebase database
 # Technologies:
 
  #Frontend : </br>
- HTML
- CSS
+ HTML </br>
+ CSS </br>
  React/ Redux(Redux-Saga) </br>
- </hr>
+ React-Device-Detect </br>
+
  #Backend: 
  Node js (express) </br>
  MongoDB </br>
